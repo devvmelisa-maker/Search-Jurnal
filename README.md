@@ -73,6 +73,7 @@ Jujur, aku bukan developer pro atau orang yang jago terminal. Aku cuma mahasiswa
   - OneSearch
   - Perpusnas
   - Kemdiktisaintek
+
  ⚙️ Installation
   
   1. Clone this repo
