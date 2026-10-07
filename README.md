@@ -14,7 +14,6 @@ Jujur, aku bukan developer pro atau orang yang jago terminal. Aku cuma mahasiswa
   
   #### Cara pakai
   
-  ```bash
   jurnal <kata kunci>
   
   Contoh
@@ -49,10 +48,8 @@ Jujur, aku bukan developer pro atau orang yang jago terminal. Aku cuma mahasiswa
   This isn't anything fancy or complicated. But if it happens to help someone out there, that makes me really happy. 😊
   
   If you have suggestions — whether it's a new journal portal to add, or something that doesn't seem right — feel free to open an Issue or Pull Request. I'm very open to it!
-  
-  
-  
-  📚 jurnal — Search Journals All at Once
+
+### 📚 jurnal — Search Journals All at Once
   
   One command, all journal portals open simultaneously in your browser.
   
